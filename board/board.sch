@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
@@ -3302,9 +3302,9 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <label x="147.32" y="114.3" size="1.778" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="IC3" gate="U$1" pin="GP21"/>
-<wire x1="340.36" y1="99.06" x2="370.84" y2="99.06" width="0.1524" layer="91"/>
-<label x="370.84" y="99.06" size="1.778" layer="95" rot="R180"/>
+<wire x1="340.36" y1="96.52" x2="370.84" y2="96.52" width="0.1524" layer="91"/>
+<pinref part="IC3" gate="U$1" pin="GP20"/>
+<label x="370.84" y="96.52" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="WINDSHIELD_LED1" class="0">
@@ -3386,9 +3386,9 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <label x="15.24" y="119.38" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC3" gate="U$1" pin="GP20"/>
-<wire x1="340.36" y1="96.52" x2="370.84" y2="96.52" width="0.1524" layer="91"/>
-<label x="370.84" y="96.52" size="1.778" layer="95" rot="R180"/>
+<wire x1="340.36" y1="93.98" x2="370.84" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="IC3" gate="U$1" pin="GP19"/>
+<label x="370.84" y="93.98" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="PAS_SEAT_LED2" class="0">
@@ -3398,9 +3398,9 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <label x="15.24" y="104.14" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC3" gate="U$1" pin="GP19"/>
-<wire x1="340.36" y1="93.98" x2="370.84" y2="93.98" width="0.1524" layer="91"/>
-<label x="370.84" y="93.98" size="1.778" layer="95" rot="R180"/>
+<wire x1="340.36" y1="91.44" x2="370.84" y2="91.44" width="0.1524" layer="91"/>
+<pinref part="IC3" gate="U$1" pin="GP18"/>
+<label x="370.84" y="91.44" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="PAS_SEAT_LED3" class="0">
@@ -3410,21 +3410,9 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <label x="15.24" y="88.9" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC3" gate="U$1" pin="GP18"/>
-<wire x1="340.36" y1="91.44" x2="370.84" y2="91.44" width="0.1524" layer="91"/>
-<label x="370.84" y="91.44" size="1.778" layer="95" rot="R180"/>
-</segment>
-</net>
-<net name="N$34" class="0">
-<segment>
-<pinref part="R39" gate="G$1" pin="1"/>
-<pinref part="X9" gate="G$1" pin="5"/>
-<wire x1="48.26" y1="38.1" x2="43.18" y2="38.1" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="X0"/>
-<wire x1="43.18" y1="38.1" x2="30.48" y2="38.1" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="53.34" x2="43.18" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="53.34" x2="43.18" y2="38.1" width="0.1524" layer="91"/>
-<junction x="43.18" y="38.1"/>
+<wire x1="340.36" y1="86.36" x2="370.84" y2="86.36" width="0.1524" layer="91"/>
+<pinref part="IC3" gate="U$1" pin="GP17"/>
+<label x="370.84" y="86.36" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="+3V3" class="0">
@@ -3771,9 +3759,9 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <label x="236.22" y="127" size="1.778" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="IC3" gate="U$1" pin="GP17"/>
-<wire x1="340.36" y1="86.36" x2="370.84" y2="86.36" width="0.1524" layer="91"/>
-<label x="370.84" y="86.36" size="1.778" layer="95" rot="R180"/>
+<wire x1="340.36" y1="83.82" x2="370.84" y2="83.82" width="0.1524" layer="91"/>
+<pinref part="IC3" gate="U$1" pin="GP16"/>
+<label x="370.84" y="83.82" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="ENGINE_RUN_IN" class="0">
@@ -3893,40 +3881,16 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <wire x1="370.84" y1="149.86" x2="370.84" y2="139.7" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$68" class="0">
-<segment>
-<pinref part="R41" gate="G$1" pin="1"/>
-<pinref part="X9" gate="G$1" pin="1"/>
-<wire x1="30.48" y1="33.02" x2="38.1" y2="33.02" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="X2"/>
-<wire x1="38.1" y1="33.02" x2="48.26" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="48.26" x2="38.1" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="48.26" x2="38.1" y2="33.02" width="0.1524" layer="91"/>
-<junction x="38.1" y="33.02"/>
-</segment>
-</net>
-<net name="N$26" class="0">
-<segment>
-<pinref part="X9" gate="G$1" pin="3"/>
-<pinref part="R40" gate="G$1" pin="1"/>
-<wire x1="48.26" y1="35.56" x2="40.64" y2="35.56" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="X1"/>
-<wire x1="40.64" y1="35.56" x2="30.48" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="50.8" x2="40.64" y2="50.8" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="50.8" x2="40.64" y2="35.56" width="0.1524" layer="91"/>
-<junction x="40.64" y="35.56"/>
-</segment>
-</net>
 <net name="N$35" class="0">
 <segment>
 <pinref part="X9" gate="G$1" pin="7"/>
 <pinref part="R38" gate="G$1" pin="1"/>
-<wire x1="48.26" y1="40.64" x2="45.72" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="X3"/>
-<wire x1="45.72" y1="40.64" x2="30.48" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="45.72" x2="45.72" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="45.72" x2="45.72" y2="40.64" width="0.1524" layer="91"/>
-<junction x="45.72" y="40.64"/>
+<wire x1="48.26" y1="40.64" x2="43.18" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="IC2" gate="G$1" pin="X1"/>
+<wire x1="43.18" y1="40.64" x2="30.48" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="50.8" x2="43.18" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="50.8" x2="43.18" y2="40.64" width="0.1524" layer="91"/>
+<junction x="43.18" y="40.64"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -4000,9 +3964,45 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <label x="287.02" y="167.64" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC3" gate="U$1" pin="GP16"/>
-<wire x1="340.36" y1="83.82" x2="370.84" y2="83.82" width="0.1524" layer="91"/>
-<label x="370.84" y="83.82" size="1.778" layer="95" rot="R180"/>
+<pinref part="IC3" gate="U$1" pin="GP21"/>
+<wire x1="340.36" y1="99.06" x2="370.84" y2="99.06" width="0.1524" layer="91"/>
+<label x="370.84" y="99.06" size="1.778" layer="95" rot="R180"/>
+</segment>
+</net>
+<net name="N$63" class="0">
+<segment>
+<pinref part="X9" gate="G$1" pin="5"/>
+<pinref part="R39" gate="G$1" pin="1"/>
+<wire x1="48.26" y1="38.1" x2="38.1" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="IC2" gate="G$1" pin="X3"/>
+<wire x1="38.1" y1="38.1" x2="30.48" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="45.72" x2="38.1" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="45.72" x2="38.1" y2="38.1" width="0.1524" layer="91"/>
+<junction x="38.1" y="38.1"/>
+</segment>
+</net>
+<net name="N$70" class="0">
+<segment>
+<pinref part="X9" gate="G$1" pin="3"/>
+<pinref part="R40" gate="G$1" pin="1"/>
+<wire x1="48.26" y1="35.56" x2="40.64" y2="35.56" width="0.1524" layer="91"/>
+<pinref part="IC2" gate="G$1" pin="X2"/>
+<wire x1="40.64" y1="35.56" x2="30.48" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="48.26" x2="40.64" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="48.26" x2="40.64" y2="35.56" width="0.1524" layer="91"/>
+<junction x="40.64" y="35.56"/>
+</segment>
+</net>
+<net name="N$71" class="0">
+<segment>
+<pinref part="R41" gate="G$1" pin="1"/>
+<pinref part="X9" gate="G$1" pin="1"/>
+<wire x1="30.48" y1="33.02" x2="45.72" y2="33.02" width="0.1524" layer="91"/>
+<pinref part="IC2" gate="G$1" pin="X0"/>
+<wire x1="45.72" y1="33.02" x2="48.26" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="53.34" x2="45.72" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="53.34" x2="45.72" y2="33.02" width="0.1524" layer="91"/>
+<junction x="45.72" y="33.02"/>
 </segment>
 </net>
 </nets>
