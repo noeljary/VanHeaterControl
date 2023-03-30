@@ -2120,30 +2120,30 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <part name="OK10" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
 <part name="OK11" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
 <part name="R3" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R8" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R34" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R14" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R15" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R9" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R36" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
 <part name="R16" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R22" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R23" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R17" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R18" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
 <part name="R24" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R25" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R26" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
 <part name="R1" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
-<part name="R6" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
-<part name="R30" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
-<part name="R10" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
-<part name="R11" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R7" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R32" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="R12" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
-<part name="R18" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
-<part name="R19" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R13" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R14" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="R20" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R21" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R22" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="OK2" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
-<part name="R38" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
-<part name="R41" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
-<part name="R39" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
 <part name="R40" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
+<part name="R43" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
+<part name="R41" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
+<part name="R42" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="+3V2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
@@ -2158,10 +2158,10 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="Q6" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="MOSFET_N_CHANNEL" device="SOT23" package3d_urn="urn:adsk.eagle:package:29221666/4"/>
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R9" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
+<part name="R10" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
 <part name="OK4" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
 <part name="GND9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R7" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R8" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
 <part name="Q3" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="MOSFET_P_CHANNEL" device="TO252" package3d_urn="urn:adsk.eagle:package:35710784/4"/>
 <part name="Q5" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="MOSFET_P_CHANNEL" device="TO252" package3d_urn="urn:adsk.eagle:package:35710784/4"/>
@@ -2170,19 +2170,19 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <part name="X4" library="THT" library_urn="urn:adsk.eagle:library:29230945" deviceset="ATF13-2P" device="" package3d_urn="urn:adsk.eagle:package:35700124/3"/>
 <part name="X6" library="THT" library_urn="urn:adsk.eagle:library:29230945" deviceset="ATF13-2P" device="" package3d_urn="urn:adsk.eagle:package:35700124/3"/>
 <part name="OK14" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
-<part name="R31" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R33" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R35" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
-<part name="R42" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R37" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
 <part name="R44" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R17" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
+<part name="R46" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R19" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
 <part name="OK8" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
-<part name="R13" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R15" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="GND11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R43" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
-<part name="R25" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
+<part name="R45" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R27" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
 <part name="OK12" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
-<part name="R21" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R23" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -2195,28 +2195,28 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <part name="GND14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="OK15" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
 <part name="P+6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
-<part name="R36" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
+<part name="R38" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="560"/>
 <part name="+3V5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="R32" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
+<part name="R34" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
 <part name="OK16" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="OPTOCOUPLER" device="SO4" package3d_urn="urn:adsk.eagle:package:29221918/7"/>
-<part name="R33" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
+<part name="R35" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="120"/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
-<part name="R37" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
+<part name="R39" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
 <part name="Q2" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="MOSFET_P_CHANNEL" device="SOT23" package3d_urn="urn:adsk.eagle:package:29221666/4"/>
 <part name="IC3" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RASPBERRY_PICO" device="SMD" package3d_urn="urn:adsk.eagle:package:35028388/4"/>
 <part name="GND16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="Q1" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="MOSFET_P_CHANNEL" device="SOT23" package3d_urn="urn:adsk.eagle:package:29221666/4"/>
 <part name="+3V6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
-<part name="R5" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
+<part name="R6" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="1k"/>
 <part name="D1" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="LED" device="1206" package3d_urn="urn:adsk.eagle:package:29221563/4"/>
 <part name="D2" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="LED" device="1206" package3d_urn="urn:adsk.eagle:package:29221563/4"/>
 <part name="D4" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="LED" device="1206" package3d_urn="urn:adsk.eagle:package:29221563/4"/>
 <part name="D3" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="LED" device="1206" package3d_urn="urn:adsk.eagle:package:29221563/4"/>
-<part name="R26" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4"/>
-<part name="R27" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4"/>
-<part name="R29" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4"/>
 <part name="R28" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4"/>
+<part name="R29" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4"/>
+<part name="R31" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4"/>
+<part name="R30" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4"/>
 <part name="GND17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="+3V8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="X10" library="THT" library_urn="urn:adsk.eagle:library:29230945" deviceset="MOLEX_MICROFIT3.0-2X3" device="" package3d_urn="urn:adsk.eagle:package:37885051/5"/>
@@ -2225,6 +2225,8 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <part name="GND18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="H3" library="THT" library_urn="urn:adsk.eagle:library:29230945" deviceset="MOUNT-PAD-ROUND" device="3.2" package3d_urn="urn:adsk.eagle:package:29802303/4"/>
 <part name="H4" library="THT" library_urn="urn:adsk.eagle:library:29230945" deviceset="MOUNT-PAD-ROUND" device="3.2" package3d_urn="urn:adsk.eagle:package:29802303/4"/>
+<part name="R5" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
+<part name="R11" library="SMD" library_urn="urn:adsk.eagle:library:29221540" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:29221574/4" value="10k"/>
 </parts>
 <sheets>
 <sheet>
@@ -2307,35 +2309,35 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <attribute name="NAME" x="74.93" y="242.7986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="237.998" size="1.778" layer="96"/>
 </instance>
-<instance part="R8" gate="G$1" x="78.74" y="218.44" smashed="yes">
+<instance part="R9" gate="G$1" x="78.74" y="218.44" smashed="yes">
 <attribute name="NAME" x="74.93" y="219.9386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="215.138" size="1.778" layer="96"/>
 </instance>
-<instance part="R34" gate="G$1" x="78.74" y="195.58" smashed="yes">
+<instance part="R36" gate="G$1" x="78.74" y="195.58" smashed="yes">
 <attribute name="NAME" x="74.93" y="197.0786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="192.278" size="1.778" layer="96"/>
 </instance>
-<instance part="R14" gate="G$1" x="78.74" y="172.72" smashed="yes">
+<instance part="R16" gate="G$1" x="78.74" y="172.72" smashed="yes">
 <attribute name="NAME" x="74.93" y="174.2186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="169.418" size="1.778" layer="96"/>
 </instance>
-<instance part="R15" gate="G$1" x="78.74" y="157.48" smashed="yes">
+<instance part="R17" gate="G$1" x="78.74" y="157.48" smashed="yes">
 <attribute name="NAME" x="74.93" y="158.9786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="154.178" size="1.778" layer="96"/>
 </instance>
-<instance part="R16" gate="G$1" x="78.74" y="142.24" smashed="yes">
+<instance part="R18" gate="G$1" x="78.74" y="142.24" smashed="yes">
 <attribute name="NAME" x="74.93" y="143.7386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="138.938" size="1.778" layer="96"/>
 </instance>
-<instance part="R22" gate="G$1" x="78.74" y="119.38" smashed="yes">
+<instance part="R24" gate="G$1" x="78.74" y="119.38" smashed="yes">
 <attribute name="NAME" x="74.93" y="120.8786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="116.078" size="1.778" layer="96"/>
 </instance>
-<instance part="R23" gate="G$1" x="78.74" y="104.14" smashed="yes">
+<instance part="R25" gate="G$1" x="78.74" y="104.14" smashed="yes">
 <attribute name="NAME" x="74.93" y="105.6386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="100.838" size="1.778" layer="96"/>
 </instance>
-<instance part="R24" gate="G$1" x="78.74" y="88.9" smashed="yes">
+<instance part="R26" gate="G$1" x="78.74" y="88.9" smashed="yes">
 <attribute name="NAME" x="74.93" y="90.3986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.93" y="85.598" size="1.778" layer="96"/>
 </instance>
@@ -2346,58 +2348,58 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <attribute name="NAME" x="41.91" y="242.7986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="237.998" size="1.778" layer="96"/>
 </instance>
-<instance part="R6" gate="G$1" x="45.72" y="218.44" smashed="yes">
+<instance part="R7" gate="G$1" x="45.72" y="218.44" smashed="yes">
 <attribute name="NAME" x="41.91" y="219.9386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="215.138" size="1.778" layer="96"/>
 </instance>
-<instance part="R30" gate="G$1" x="45.72" y="195.58" smashed="yes">
+<instance part="R32" gate="G$1" x="45.72" y="195.58" smashed="yes">
 <attribute name="NAME" x="41.91" y="197.0786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="192.278" size="1.778" layer="96"/>
 </instance>
-<instance part="R10" gate="G$1" x="45.72" y="172.72" smashed="yes">
+<instance part="R12" gate="G$1" x="45.72" y="172.72" smashed="yes">
 <attribute name="NAME" x="41.91" y="174.2186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="169.418" size="1.778" layer="96"/>
 </instance>
-<instance part="R11" gate="G$1" x="45.72" y="157.48" smashed="yes">
+<instance part="R13" gate="G$1" x="45.72" y="157.48" smashed="yes">
 <attribute name="NAME" x="41.91" y="158.9786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="154.178" size="1.778" layer="96"/>
 </instance>
-<instance part="R12" gate="G$1" x="45.72" y="142.24" smashed="yes">
+<instance part="R14" gate="G$1" x="45.72" y="142.24" smashed="yes">
 <attribute name="NAME" x="41.91" y="143.7386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="138.938" size="1.778" layer="96"/>
 </instance>
-<instance part="R18" gate="G$1" x="45.72" y="119.38" smashed="yes">
+<instance part="R20" gate="G$1" x="45.72" y="119.38" smashed="yes">
 <attribute name="NAME" x="41.91" y="120.8786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="116.078" size="1.778" layer="96"/>
 </instance>
-<instance part="R19" gate="G$1" x="45.72" y="104.14" smashed="yes">
+<instance part="R21" gate="G$1" x="45.72" y="104.14" smashed="yes">
 <attribute name="NAME" x="41.91" y="105.6386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="100.838" size="1.778" layer="96"/>
 </instance>
-<instance part="R20" gate="G$1" x="45.72" y="88.9" smashed="yes">
+<instance part="R22" gate="G$1" x="45.72" y="88.9" smashed="yes">
 <attribute name="NAME" x="41.91" y="90.3986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="41.91" y="85.598" size="1.778" layer="96"/>
 </instance>
 <instance part="GND2" gate="1" x="53.34" y="78.74" smashed="yes">
 <attribute name="VALUE" x="50.8" y="76.2" size="1.778" layer="96"/>
 </instance>
-<instance part="OK2" gate="G$1" x="187.96" y="243.84" smashed="yes" rot="MR0">
-<attribute name="NAME" x="194.945" y="249.555" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="194.945" y="236.22" size="1.778" layer="96" rot="MR0"/>
+<instance part="OK2" gate="G$1" x="187.96" y="246.38" smashed="yes" rot="MR0">
+<attribute name="NAME" x="194.945" y="252.095" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="194.945" y="238.76" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R38" gate="G$1" x="53.34" y="40.64" smashed="yes">
+<instance part="R40" gate="G$1" x="53.34" y="40.64" smashed="yes">
 <attribute name="NAME" x="49.53" y="42.1386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="49.53" y="37.338" size="1.778" layer="96"/>
 </instance>
-<instance part="R41" gate="G$1" x="53.34" y="33.02" smashed="yes">
+<instance part="R43" gate="G$1" x="53.34" y="33.02" smashed="yes">
 <attribute name="NAME" x="49.53" y="34.5186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="49.53" y="29.718" size="1.778" layer="96"/>
 </instance>
-<instance part="R39" gate="G$1" x="53.34" y="38.1" smashed="yes">
+<instance part="R41" gate="G$1" x="53.34" y="38.1" smashed="yes">
 <attribute name="NAME" x="49.53" y="39.5986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="49.53" y="34.798" size="1.778" layer="96"/>
 </instance>
-<instance part="R40" gate="G$1" x="53.34" y="35.56" smashed="yes">
+<instance part="R42" gate="G$1" x="53.34" y="35.56" smashed="yes">
 <attribute name="NAME" x="49.53" y="37.0586" size="1.778" layer="95"/>
 <attribute name="VALUE" x="49.53" y="32.258" size="1.778" layer="96"/>
 </instance>
@@ -2420,51 +2422,51 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <instance part="GND5" gate="1" x="114.3" y="17.78" smashed="yes">
 <attribute name="VALUE" x="111.76" y="15.24" size="1.778" layer="96"/>
 </instance>
-<instance part="R2" gate="G$1" x="203.2" y="246.38" smashed="yes">
-<attribute name="NAME" x="199.39" y="247.8786" size="1.778" layer="95"/>
-<attribute name="VALUE" x="199.39" y="243.078" size="1.778" layer="96"/>
+<instance part="R2" gate="G$1" x="203.2" y="248.92" smashed="yes">
+<attribute name="NAME" x="199.39" y="250.4186" size="1.778" layer="95"/>
+<attribute name="VALUE" x="199.39" y="245.618" size="1.778" layer="96"/>
 </instance>
-<instance part="GND6" gate="1" x="205.74" y="241.3" smashed="yes" rot="R90">
-<attribute name="VALUE" x="208.28" y="238.76" size="1.778" layer="96" rot="R90"/>
+<instance part="GND6" gate="1" x="205.74" y="243.84" smashed="yes" rot="R90">
+<attribute name="VALUE" x="208.28" y="241.3" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="P+2" gate="1" x="162.56" y="246.38" smashed="yes" rot="R90">
-<attribute name="VALUE" x="167.64" y="243.84" size="1.778" layer="96" rot="R180"/>
+<instance part="P+2" gate="1" x="162.56" y="248.92" smashed="yes" rot="R90">
+<attribute name="VALUE" x="167.64" y="246.38" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R4" gate="G$1" x="175.26" y="241.3" smashed="yes">
-<attribute name="NAME" x="171.45" y="242.7986" size="1.778" layer="95"/>
-<attribute name="VALUE" x="171.45" y="237.998" size="1.778" layer="96"/>
+<instance part="R4" gate="G$1" x="175.26" y="243.84" smashed="yes">
+<attribute name="NAME" x="171.45" y="245.3386" size="1.778" layer="95"/>
+<attribute name="VALUE" x="171.45" y="240.538" size="1.778" layer="96"/>
 </instance>
 <instance part="Q7" gate="G$1" x="165.1" y="236.22" smashed="yes" rot="MR270">
 <attribute name="NAME" x="162.56" y="229.87" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="165.1" y="229.87" size="1.778" layer="96" rot="MR270"/>
 </instance>
-<instance part="GND7" gate="1" x="172.72" y="233.68" smashed="yes" rot="R90">
-<attribute name="VALUE" x="175.26" y="231.14" size="1.778" layer="96" rot="R90"/>
+<instance part="GND7" gate="1" x="185.42" y="233.68" smashed="yes" rot="R90">
+<attribute name="VALUE" x="187.96" y="231.14" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="Q6" gate="G$1" x="165.1" y="213.36" smashed="yes" rot="MR270">
 <attribute name="NAME" x="162.56" y="207.01" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="165.1" y="207.01" size="1.778" layer="96" rot="MR270"/>
 </instance>
-<instance part="GND8" gate="1" x="172.72" y="210.82" smashed="yes" rot="R90">
-<attribute name="VALUE" x="175.26" y="208.28" size="1.778" layer="96" rot="R90"/>
+<instance part="GND8" gate="1" x="185.42" y="210.82" smashed="yes" rot="R90">
+<attribute name="VALUE" x="187.96" y="208.28" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R9" gate="G$1" x="175.26" y="218.44" smashed="yes">
-<attribute name="NAME" x="171.45" y="219.9386" size="1.778" layer="95"/>
-<attribute name="VALUE" x="171.45" y="215.138" size="1.778" layer="96"/>
+<instance part="R10" gate="G$1" x="175.26" y="220.98" smashed="yes">
+<attribute name="NAME" x="171.45" y="222.4786" size="1.778" layer="95"/>
+<attribute name="VALUE" x="171.45" y="217.678" size="1.778" layer="96"/>
 </instance>
-<instance part="OK4" gate="G$1" x="187.96" y="220.98" smashed="yes" rot="MR0">
-<attribute name="NAME" x="194.945" y="226.695" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="194.945" y="213.36" size="1.778" layer="96" rot="MR0"/>
+<instance part="OK4" gate="G$1" x="187.96" y="223.52" smashed="yes" rot="MR0">
+<attribute name="NAME" x="194.945" y="229.235" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="194.945" y="215.9" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="GND9" gate="1" x="205.74" y="218.44" smashed="yes" rot="R90">
-<attribute name="VALUE" x="208.28" y="215.9" size="1.778" layer="96" rot="R90"/>
+<instance part="GND9" gate="1" x="205.74" y="220.98" smashed="yes" rot="R90">
+<attribute name="VALUE" x="208.28" y="218.44" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R7" gate="G$1" x="203.2" y="223.52" smashed="yes">
-<attribute name="NAME" x="199.39" y="225.0186" size="1.778" layer="95"/>
-<attribute name="VALUE" x="199.39" y="220.218" size="1.778" layer="96"/>
+<instance part="R8" gate="G$1" x="203.2" y="226.06" smashed="yes">
+<attribute name="NAME" x="199.39" y="227.5586" size="1.778" layer="95"/>
+<attribute name="VALUE" x="199.39" y="222.758" size="1.778" layer="96"/>
 </instance>
-<instance part="P+3" gate="1" x="162.56" y="223.52" smashed="yes" rot="R90">
-<attribute name="VALUE" x="167.64" y="220.98" size="1.778" layer="96" rot="R180"/>
+<instance part="P+3" gate="1" x="162.56" y="226.06" smashed="yes" rot="R90">
+<attribute name="VALUE" x="167.64" y="223.52" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="Q3" gate="G$1" x="162.56" y="195.58" smashed="yes" rot="MR0">
 <attribute name="NAME" x="156.21" y="198.12" size="1.778" layer="95" rot="MR0"/>
@@ -2494,26 +2496,26 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <attribute name="NAME" x="194.945" y="206.375" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="194.945" y="193.04" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R31" gate="G$1" x="203.2" y="203.2" smashed="yes">
+<instance part="R33" gate="G$1" x="203.2" y="203.2" smashed="yes">
 <attribute name="NAME" x="199.39" y="204.6986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="199.39" y="199.898" size="1.778" layer="96"/>
 </instance>
 <instance part="GND10" gate="1" x="205.74" y="190.5" smashed="yes" rot="R90">
 <attribute name="VALUE" x="208.28" y="187.96" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R35" gate="G$1" x="167.64" y="203.2" smashed="yes">
+<instance part="R37" gate="G$1" x="167.64" y="203.2" smashed="yes">
 <attribute name="NAME" x="163.83" y="204.6986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="163.83" y="199.898" size="1.778" layer="96"/>
 </instance>
-<instance part="R42" gate="G$1" x="142.24" y="187.96" smashed="yes">
+<instance part="R44" gate="G$1" x="142.24" y="187.96" smashed="yes">
 <attribute name="NAME" x="138.43" y="189.4586" size="1.778" layer="95"/>
 <attribute name="VALUE" x="138.43" y="184.658" size="1.778" layer="96"/>
 </instance>
-<instance part="R44" gate="G$1" x="142.24" y="165.1" smashed="yes">
+<instance part="R46" gate="G$1" x="142.24" y="165.1" smashed="yes">
 <attribute name="NAME" x="138.43" y="166.5986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="138.43" y="161.798" size="1.778" layer="96"/>
 </instance>
-<instance part="R17" gate="G$1" x="167.64" y="180.34" smashed="yes">
+<instance part="R19" gate="G$1" x="167.64" y="180.34" smashed="yes">
 <attribute name="NAME" x="163.83" y="181.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="163.83" y="177.038" size="1.778" layer="96"/>
 </instance>
@@ -2521,18 +2523,18 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <attribute name="NAME" x="194.945" y="183.515" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="194.945" y="170.18" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R13" gate="G$1" x="203.2" y="180.34" smashed="yes">
+<instance part="R15" gate="G$1" x="203.2" y="180.34" smashed="yes">
 <attribute name="NAME" x="199.39" y="181.8386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="199.39" y="177.038" size="1.778" layer="96"/>
 </instance>
 <instance part="GND11" gate="1" x="205.74" y="167.64" smashed="yes" rot="R90">
 <attribute name="VALUE" x="208.28" y="165.1" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R43" gate="G$1" x="142.24" y="111.76" smashed="yes">
+<instance part="R45" gate="G$1" x="142.24" y="111.76" smashed="yes">
 <attribute name="NAME" x="138.43" y="113.2586" size="1.778" layer="95"/>
 <attribute name="VALUE" x="138.43" y="108.458" size="1.778" layer="96"/>
 </instance>
-<instance part="R25" gate="G$1" x="167.64" y="127" smashed="yes">
+<instance part="R27" gate="G$1" x="167.64" y="127" smashed="yes">
 <attribute name="NAME" x="163.83" y="128.4986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="163.83" y="123.698" size="1.778" layer="96"/>
 </instance>
@@ -2540,7 +2542,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <attribute name="NAME" x="194.945" y="130.175" size="1.778" layer="95" rot="MR0"/>
 <attribute name="VALUE" x="194.945" y="116.84" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R21" gate="G$1" x="203.2" y="127" smashed="yes">
+<instance part="R23" gate="G$1" x="203.2" y="127" smashed="yes">
 <attribute name="NAME" x="199.39" y="128.4986" size="1.778" layer="95"/>
 <attribute name="VALUE" x="199.39" y="123.698" size="1.778" layer="96"/>
 </instance>
@@ -2584,14 +2586,14 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <instance part="P+6" gate="1" x="289.56" y="243.84" smashed="yes" rot="R90">
 <attribute name="VALUE" x="294.64" y="241.3" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R36" gate="G$1" x="299.72" y="243.84" smashed="yes">
+<instance part="R38" gate="G$1" x="299.72" y="243.84" smashed="yes">
 <attribute name="NAME" x="295.91" y="245.3386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="295.91" y="240.538" size="1.778" layer="96"/>
 </instance>
 <instance part="+3V5" gate="G$1" x="342.9" y="243.84" smashed="yes" rot="R270">
 <attribute name="VALUE" x="337.82" y="246.38" size="1.778" layer="96"/>
 </instance>
-<instance part="R32" gate="G$1" x="332.74" y="243.84" smashed="yes">
+<instance part="R34" gate="G$1" x="332.74" y="243.84" smashed="yes">
 <attribute name="NAME" x="328.93" y="245.3386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="328.93" y="240.538" size="1.778" layer="96"/>
 </instance>
@@ -2599,7 +2601,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <attribute name="NAME" x="310.515" y="221.615" size="1.778" layer="95"/>
 <attribute name="VALUE" x="310.515" y="208.28" size="1.778" layer="96"/>
 </instance>
-<instance part="R33" gate="G$1" x="299.72" y="218.44" smashed="yes">
+<instance part="R35" gate="G$1" x="299.72" y="218.44" smashed="yes">
 <attribute name="NAME" x="295.91" y="219.9386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="295.91" y="215.138" size="1.778" layer="96"/>
 </instance>
@@ -2609,7 +2611,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <instance part="P+7" gate="1" x="342.9" y="228.6" smashed="yes">
 <attribute name="VALUE" x="340.36" y="223.52" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R37" gate="G$1" x="335.28" y="223.52" smashed="yes">
+<instance part="R39" gate="G$1" x="335.28" y="223.52" smashed="yes">
 <attribute name="NAME" x="331.47" y="225.0186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="331.47" y="220.218" size="1.778" layer="96"/>
 </instance>
@@ -2631,7 +2633,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <instance part="+3V6" gate="G$1" x="370.84" y="165.1" smashed="yes">
 <attribute name="VALUE" x="368.3" y="160.02" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R5" gate="G$1" x="355.6" y="142.24" smashed="yes">
+<instance part="R6" gate="G$1" x="355.6" y="142.24" smashed="yes">
 <attribute name="NAME" x="351.79" y="143.7386" size="1.778" layer="95"/>
 <attribute name="VALUE" x="351.79" y="138.938" size="1.778" layer="96"/>
 </instance>
@@ -2651,19 +2653,19 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <attribute name="NAME" x="329.692" y="171.196" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="329.692" y="173.355" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R26" gate="G$1" x="314.96" y="182.88" smashed="yes" rot="R180">
+<instance part="R28" gate="G$1" x="314.96" y="182.88" smashed="yes" rot="R180">
 <attribute name="NAME" x="318.77" y="181.3814" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="318.77" y="186.182" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R27" gate="G$1" x="314.96" y="177.8" smashed="yes" rot="R180">
+<instance part="R29" gate="G$1" x="314.96" y="177.8" smashed="yes" rot="R180">
 <attribute name="NAME" x="318.77" y="176.3014" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="318.77" y="181.102" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R29" gate="G$1" x="314.96" y="172.72" smashed="yes" rot="R180">
+<instance part="R31" gate="G$1" x="314.96" y="172.72" smashed="yes" rot="R180">
 <attribute name="NAME" x="318.77" y="171.2214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="318.77" y="176.022" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R28" gate="G$1" x="314.96" y="167.64" smashed="yes" rot="R180">
+<instance part="R30" gate="G$1" x="314.96" y="167.64" smashed="yes" rot="R180">
 <attribute name="NAME" x="318.77" y="166.1414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="318.77" y="170.942" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -2695,6 +2697,14 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <instance part="H4" gate="G$1" x="195.58" y="68.58" smashed="yes">
 <attribute name="NAME" x="198.374" y="69.1642" size="1.778" layer="95"/>
 <attribute name="VALUE" x="198.374" y="66.1162" size="1.778" layer="96"/>
+</instance>
+<instance part="R5" gate="G$1" x="180.34" y="238.76" smashed="yes" rot="R90">
+<attribute name="NAME" x="178.8414" y="234.95" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="183.642" y="234.95" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R11" gate="G$1" x="180.34" y="215.9" smashed="yes" rot="R90">
+<attribute name="NAME" x="178.8414" y="212.09" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="183.642" y="212.09" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
 <busses>
@@ -2830,20 +2840,28 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <segment>
 <pinref part="OK2" gate="G$1" pin="C"/>
 <pinref part="GND6" gate="1" pin="GND"/>
-<wire x1="198.12" y1="241.3" x2="203.2" y2="241.3" width="0.1524" layer="91"/>
+<wire x1="198.12" y1="243.84" x2="203.2" y2="243.84" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="Q7" gate="G$1" pin="S"/>
 <pinref part="GND7" gate="1" pin="GND"/>
+<wire x1="182.88" y1="233.68" x2="180.34" y2="233.68" width="0.1524" layer="91"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<wire x1="180.34" y1="233.68" x2="170.18" y2="233.68" width="0.1524" layer="91"/>
+<junction x="180.34" y="233.68"/>
 </segment>
 <segment>
 <pinref part="Q6" gate="G$1" pin="S"/>
 <pinref part="GND8" gate="1" pin="GND"/>
+<wire x1="182.88" y1="210.82" x2="180.34" y2="210.82" width="0.1524" layer="91"/>
+<pinref part="R11" gate="G$1" pin="1"/>
+<wire x1="180.34" y1="210.82" x2="170.18" y2="210.82" width="0.1524" layer="91"/>
+<junction x="180.34" y="210.82"/>
 </segment>
 <segment>
 <pinref part="OK4" gate="G$1" pin="C"/>
 <pinref part="GND9" gate="1" pin="GND"/>
-<wire x1="203.2" y1="218.44" x2="198.12" y2="218.44" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="220.98" x2="198.12" y2="220.98" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="OK14" gate="G$1" pin="C"/>
@@ -2997,49 +3015,49 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$3" class="0">
 <segment>
 <pinref part="OK3" gate="G$1" pin="COL"/>
-<pinref part="R8" gate="G$1" pin="1"/>
+<pinref part="R9" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
 <pinref part="OK13" gate="G$1" pin="COL"/>
-<pinref part="R34" gate="G$1" pin="1"/>
+<pinref part="R36" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <pinref part="OK5" gate="G$1" pin="COL"/>
-<pinref part="R14" gate="G$1" pin="1"/>
+<pinref part="R16" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
 <pinref part="OK6" gate="G$1" pin="COL"/>
-<pinref part="R15" gate="G$1" pin="1"/>
+<pinref part="R17" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
 <pinref part="OK7" gate="G$1" pin="COL"/>
-<pinref part="R16" gate="G$1" pin="1"/>
+<pinref part="R18" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
 <pinref part="OK9" gate="G$1" pin="COL"/>
-<pinref part="R22" gate="G$1" pin="1"/>
+<pinref part="R24" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
 <pinref part="OK10" gate="G$1" pin="COL"/>
-<pinref part="R23" gate="G$1" pin="1"/>
+<pinref part="R25" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$12" class="0">
 <segment>
 <pinref part="OK11" gate="G$1" pin="COL"/>
-<pinref part="R24" gate="G$1" pin="1"/>
+<pinref part="R26" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="+12V" class="0">
@@ -3048,12 +3066,12 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <pinref part="P+1" gate="1" pin="+12V"/>
 <wire x1="83.82" y1="241.3" x2="86.36" y2="241.3" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="241.3" x2="86.36" y2="243.84" width="0.1524" layer="91"/>
-<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="83.82" y1="218.44" x2="86.36" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="218.44" x2="86.36" y2="241.3" width="0.1524" layer="91"/>
 <junction x="86.36" y="241.3"/>
 <junction x="86.36" y="218.44"/>
-<pinref part="R24" gate="G$1" pin="2"/>
+<pinref part="R26" gate="G$1" pin="2"/>
 <wire x1="86.36" y1="218.44" x2="86.36" y2="195.58" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="195.58" x2="86.36" y2="172.72" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="172.72" x2="86.36" y2="157.48" width="0.1524" layer="91"/>
@@ -3062,34 +3080,34 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <wire x1="86.36" y1="119.38" x2="86.36" y2="104.14" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="104.14" x2="86.36" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="88.9" x2="83.82" y2="88.9" width="0.1524" layer="91"/>
-<pinref part="R23" gate="G$1" pin="2"/>
+<pinref part="R25" gate="G$1" pin="2"/>
 <wire x1="83.82" y1="104.14" x2="86.36" y2="104.14" width="0.1524" layer="91"/>
 <junction x="86.36" y="104.14"/>
-<pinref part="R22" gate="G$1" pin="2"/>
+<pinref part="R24" gate="G$1" pin="2"/>
 <wire x1="83.82" y1="119.38" x2="86.36" y2="119.38" width="0.1524" layer="91"/>
 <junction x="86.36" y="119.38"/>
-<pinref part="R16" gate="G$1" pin="2"/>
+<pinref part="R18" gate="G$1" pin="2"/>
 <wire x1="83.82" y1="142.24" x2="86.36" y2="142.24" width="0.1524" layer="91"/>
 <junction x="86.36" y="142.24"/>
-<pinref part="R15" gate="G$1" pin="2"/>
+<pinref part="R17" gate="G$1" pin="2"/>
 <wire x1="83.82" y1="157.48" x2="86.36" y2="157.48" width="0.1524" layer="91"/>
 <junction x="86.36" y="157.48"/>
-<pinref part="R14" gate="G$1" pin="2"/>
+<pinref part="R16" gate="G$1" pin="2"/>
 <wire x1="83.82" y1="172.72" x2="86.36" y2="172.72" width="0.1524" layer="91"/>
 <junction x="86.36" y="172.72"/>
-<pinref part="R34" gate="G$1" pin="2"/>
+<pinref part="R36" gate="G$1" pin="2"/>
 <wire x1="86.36" y1="195.58" x2="83.82" y2="195.58" width="0.1524" layer="91"/>
 <junction x="86.36" y="195.58"/>
 </segment>
 <segment>
 <pinref part="OK2" gate="G$1" pin="COL"/>
 <pinref part="P+2" gate="1" pin="+12V"/>
-<wire x1="180.34" y1="246.38" x2="165.1" y2="246.38" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="248.92" x2="165.1" y2="248.92" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+3" gate="1" pin="+12V"/>
 <pinref part="OK4" gate="G$1" pin="COL"/>
-<wire x1="165.1" y1="223.52" x2="180.34" y2="223.52" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="226.06" x2="180.34" y2="226.06" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+4" gate="1" pin="+12V"/>
@@ -3107,14 +3125,14 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </segment>
 <segment>
 <pinref part="P+6" gate="1" pin="+12V"/>
-<pinref part="R36" gate="G$1" pin="1"/>
+<pinref part="R38" gate="G$1" pin="1"/>
 <wire x1="292.1" y1="243.84" x2="294.64" y2="243.84" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="Q2" gate="G$1" pin="S"/>
 <pinref part="P+7" gate="1" pin="+12V"/>
 <wire x1="342.9" y1="220.98" x2="342.9" y2="223.52" width="0.1524" layer="91"/>
-<pinref part="R37" gate="G$1" pin="2"/>
+<pinref part="R39" gate="G$1" pin="2"/>
 <wire x1="342.9" y1="223.52" x2="342.9" y2="226.06" width="0.1524" layer="91"/>
 <wire x1="340.36" y1="223.52" x2="342.9" y2="223.52" width="0.1524" layer="91"/>
 <junction x="342.9" y="223.52"/>
@@ -3194,56 +3212,56 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$24" class="0">
 <segment>
 <pinref part="OK3" gate="G$1" pin="A"/>
-<pinref part="R6" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="218.44" x2="55.88" y2="218.44" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$25" class="0">
 <segment>
 <pinref part="OK13" gate="G$1" pin="A"/>
-<pinref part="R30" gate="G$1" pin="2"/>
+<pinref part="R32" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="195.58" x2="55.88" y2="195.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$28" class="0">
 <segment>
 <pinref part="OK5" gate="G$1" pin="A"/>
-<pinref part="R10" gate="G$1" pin="2"/>
+<pinref part="R12" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="172.72" x2="55.88" y2="172.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$29" class="0">
 <segment>
 <pinref part="OK6" gate="G$1" pin="A"/>
-<pinref part="R11" gate="G$1" pin="2"/>
+<pinref part="R13" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="157.48" x2="55.88" y2="157.48" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$30" class="0">
 <segment>
 <pinref part="OK7" gate="G$1" pin="A"/>
-<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="R14" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="142.24" x2="55.88" y2="142.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$31" class="0">
 <segment>
 <pinref part="OK9" gate="G$1" pin="A"/>
-<pinref part="R18" gate="G$1" pin="2"/>
+<pinref part="R20" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="119.38" x2="55.88" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$32" class="0">
 <segment>
 <pinref part="OK10" gate="G$1" pin="A"/>
-<pinref part="R19" gate="G$1" pin="2"/>
+<pinref part="R21" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="104.14" x2="55.88" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$33" class="0">
 <segment>
 <pinref part="OK11" gate="G$1" pin="A"/>
-<pinref part="R20" gate="G$1" pin="2"/>
+<pinref part="R22" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="88.9" x2="55.88" y2="88.9" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -3321,7 +3339,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="MIRROR_LED1" class="0">
 <segment>
-<pinref part="R6" gate="G$1" pin="1"/>
+<pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="218.44" x2="15.24" y2="218.44" width="0.1524" layer="91"/>
 <label x="15.24" y="218.44" size="1.778" layer="95"/>
 </segment>
@@ -3333,7 +3351,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="WHEEL_LED1" class="0">
 <segment>
-<pinref part="R30" gate="G$1" pin="1"/>
+<pinref part="R32" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="195.58" x2="15.24" y2="195.58" width="0.1524" layer="91"/>
 <label x="15.24" y="195.58" size="1.778" layer="95"/>
 </segment>
@@ -3345,7 +3363,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="DRV_SEAT_LED1" class="0">
 <segment>
-<pinref part="R10" gate="G$1" pin="1"/>
+<pinref part="R12" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="172.72" x2="15.24" y2="172.72" width="0.1524" layer="91"/>
 <label x="15.24" y="172.72" size="1.778" layer="95"/>
 </segment>
@@ -3357,7 +3375,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="DRV_SEAT_LED2" class="0">
 <segment>
-<pinref part="R11" gate="G$1" pin="1"/>
+<pinref part="R13" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="157.48" x2="15.24" y2="157.48" width="0.1524" layer="91"/>
 <label x="15.24" y="157.48" size="1.778" layer="95"/>
 </segment>
@@ -3369,7 +3387,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="DRV_SEAT_LED3" class="0">
 <segment>
-<pinref part="R12" gate="G$1" pin="1"/>
+<pinref part="R14" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="142.24" x2="15.24" y2="142.24" width="0.1524" layer="91"/>
 <label x="15.24" y="142.24" size="1.778" layer="95"/>
 </segment>
@@ -3381,7 +3399,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="PAS_SEAT_LED1" class="0">
 <segment>
-<pinref part="R18" gate="G$1" pin="1"/>
+<pinref part="R20" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="119.38" x2="15.24" y2="119.38" width="0.1524" layer="91"/>
 <label x="15.24" y="119.38" size="1.778" layer="95"/>
 </segment>
@@ -3393,7 +3411,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="PAS_SEAT_LED2" class="0">
 <segment>
-<pinref part="R19" gate="G$1" pin="1"/>
+<pinref part="R21" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="104.14" x2="15.24" y2="104.14" width="0.1524" layer="91"/>
 <label x="15.24" y="104.14" size="1.778" layer="95"/>
 </segment>
@@ -3405,7 +3423,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="PAS_SEAT_LED3" class="0">
 <segment>
-<pinref part="R20" gate="G$1" pin="1"/>
+<pinref part="R22" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="88.9" x2="15.24" y2="88.9" width="0.1524" layer="91"/>
 <label x="15.24" y="88.9" size="1.778" layer="95"/>
 </segment>
@@ -3436,7 +3454,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </segment>
 <segment>
 <pinref part="+3V5" gate="G$1" pin="+3V3"/>
-<pinref part="R32" gate="G$1" pin="2"/>
+<pinref part="R34" gate="G$1" pin="2"/>
 <wire x1="340.36" y1="243.84" x2="337.82" y2="243.84" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -3446,7 +3464,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </segment>
 <segment>
 <pinref part="+3V8" gate="G$1" pin="+3V3"/>
-<pinref part="R26" gate="G$1" pin="2"/>
+<pinref part="R28" gate="G$1" pin="2"/>
 <wire x1="307.34" y1="182.88" x2="309.88" y2="182.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -3512,8 +3530,8 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="WINDSHIELD_EN" class="0">
 <segment>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="208.28" y1="246.38" x2="236.22" y2="246.38" width="0.1524" layer="91"/>
-<label x="236.22" y="246.38" size="1.778" layer="95" rot="R180"/>
+<wire x1="208.28" y1="248.92" x2="236.22" y2="248.92" width="0.1524" layer="91"/>
+<label x="236.22" y="248.92" size="1.778" layer="95" rot="R180"/>
 </segment>
 <segment>
 <pinref part="IC3" gate="U$1" pin="GP0"/>
@@ -3532,14 +3550,17 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <segment>
 <pinref part="OK2" gate="G$1" pin="EMIT"/>
 <pinref part="R4" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<junction x="180.34" y="243.84"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$39" class="0">
 <segment>
 <pinref part="Q7" gate="G$1" pin="G"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="167.64" y1="238.76" x2="167.64" y2="241.3" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="241.3" x2="170.18" y2="241.3" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="238.76" x2="167.64" y2="243.84" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="243.84" x2="170.18" y2="243.84" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$40" class="0">
@@ -3551,29 +3572,32 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="N$41" class="0">
 <segment>
-<pinref part="R9" gate="G$1" pin="2"/>
+<pinref part="R10" gate="G$1" pin="2"/>
 <pinref part="OK4" gate="G$1" pin="EMIT"/>
+<pinref part="R11" gate="G$1" pin="2"/>
+<junction x="180.34" y="220.98"/>
+<pinref part="R11" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$42" class="0">
 <segment>
 <pinref part="OK4" gate="G$1" pin="A"/>
-<pinref part="R7" gate="G$1" pin="1"/>
+<pinref part="R8" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$43" class="0">
 <segment>
 <pinref part="Q6" gate="G$1" pin="G"/>
-<pinref part="R9" gate="G$1" pin="1"/>
-<wire x1="167.64" y1="215.9" x2="167.64" y2="218.44" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="218.44" x2="170.18" y2="218.44" width="0.1524" layer="91"/>
+<pinref part="R10" gate="G$1" pin="1"/>
+<wire x1="167.64" y1="215.9" x2="167.64" y2="220.98" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="220.98" x2="170.18" y2="220.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MIRROR_EN" class="0">
 <segment>
-<pinref part="R7" gate="G$1" pin="2"/>
-<wire x1="208.28" y1="223.52" x2="236.22" y2="223.52" width="0.1524" layer="91"/>
-<label x="236.22" y="223.52" size="1.778" layer="95" rot="R180"/>
+<pinref part="R8" gate="G$1" pin="2"/>
+<wire x1="208.28" y1="226.06" x2="236.22" y2="226.06" width="0.1524" layer="91"/>
+<label x="236.22" y="226.06" size="1.778" layer="95" rot="R180"/>
 </segment>
 <segment>
 <pinref part="IC3" gate="U$1" pin="GP6"/>
@@ -3584,12 +3608,12 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$44" class="0">
 <segment>
 <pinref part="OK14" gate="G$1" pin="A"/>
-<pinref part="R31" gate="G$1" pin="1"/>
+<pinref part="R33" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="WHEEL_EN" class="0">
 <segment>
-<pinref part="R31" gate="G$1" pin="2"/>
+<pinref part="R33" gate="G$1" pin="2"/>
 <wire x1="208.28" y1="203.2" x2="236.22" y2="203.2" width="0.1524" layer="91"/>
 <label x="236.22" y="203.2" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -3605,7 +3629,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <pinref part="Q3" gate="G$1" pin="S"/>
 <wire x1="142.24" y1="203.2" x2="160.02" y2="203.2" width="0.1524" layer="91"/>
 <wire x1="160.02" y1="203.2" x2="160.02" y2="200.66" width="0.1524" layer="91"/>
-<pinref part="R35" gate="G$1" pin="1"/>
+<pinref part="R37" gate="G$1" pin="1"/>
 <wire x1="162.56" y1="203.2" x2="160.02" y2="203.2" width="0.1524" layer="91"/>
 <junction x="160.02" y="203.2"/>
 </segment>
@@ -3613,7 +3637,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$46" class="0">
 <segment>
 <pinref part="OK14" gate="G$1" pin="COL"/>
-<pinref part="R35" gate="G$1" pin="2"/>
+<pinref part="R37" gate="G$1" pin="2"/>
 <wire x1="180.34" y1="203.2" x2="175.26" y2="203.2" width="0.1524" layer="91"/>
 <pinref part="Q3" gate="G$1" pin="G"/>
 <wire x1="175.26" y1="203.2" x2="172.72" y2="203.2" width="0.1524" layer="91"/>
@@ -3630,7 +3654,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <wire x1="149.86" y1="187.96" x2="160.02" y2="187.96" width="0.1524" layer="91"/>
 <pinref part="Q3" gate="G$1" pin="D"/>
 <wire x1="160.02" y1="187.96" x2="160.02" y2="190.5" width="0.1524" layer="91"/>
-<pinref part="R42" gate="G$1" pin="2"/>
+<pinref part="R44" gate="G$1" pin="2"/>
 <wire x1="147.32" y1="187.96" x2="149.86" y2="187.96" width="0.1524" layer="91"/>
 <junction x="149.86" y="187.96"/>
 </segment>
@@ -3639,19 +3663,19 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <segment>
 <pinref part="X7" gate="G$1" pin="4"/>
 <wire x1="109.22" y1="187.96" x2="137.16" y2="187.96" width="0.1524" layer="91"/>
-<pinref part="R42" gate="G$1" pin="1"/>
+<pinref part="R44" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$49" class="0">
 <segment>
-<pinref part="R44" gate="G$1" pin="1"/>
+<pinref part="R46" gate="G$1" pin="1"/>
 <pinref part="X3" gate="G$1" pin="4"/>
 <wire x1="137.16" y1="165.1" x2="109.22" y2="165.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$50" class="0">
 <segment>
-<pinref part="R44" gate="G$1" pin="2"/>
+<pinref part="R46" gate="G$1" pin="2"/>
 <wire x1="147.32" y1="165.1" x2="149.86" y2="165.1" width="0.1524" layer="91"/>
 <pinref part="Q5" gate="G$1" pin="D"/>
 <wire x1="149.86" y1="165.1" x2="160.02" y2="165.1" width="0.1524" layer="91"/>
@@ -3668,7 +3692,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <wire x1="142.24" y1="180.34" x2="160.02" y2="180.34" width="0.1524" layer="91"/>
 <pinref part="Q5" gate="G$1" pin="S"/>
 <wire x1="160.02" y1="180.34" x2="160.02" y2="177.8" width="0.1524" layer="91"/>
-<pinref part="R17" gate="G$1" pin="1"/>
+<pinref part="R19" gate="G$1" pin="1"/>
 <wire x1="162.56" y1="180.34" x2="160.02" y2="180.34" width="0.1524" layer="91"/>
 <junction x="160.02" y="180.34"/>
 </segment>
@@ -3676,12 +3700,12 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$51" class="0">
 <segment>
 <pinref part="OK8" gate="G$1" pin="A"/>
-<pinref part="R13" gate="G$1" pin="1"/>
+<pinref part="R15" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$53" class="0">
 <segment>
-<pinref part="R17" gate="G$1" pin="2"/>
+<pinref part="R19" gate="G$1" pin="2"/>
 <pinref part="OK8" gate="G$1" pin="COL"/>
 <wire x1="172.72" y1="180.34" x2="175.26" y2="180.34" width="0.1524" layer="91"/>
 <pinref part="Q5" gate="G$1" pin="G"/>
@@ -3693,7 +3717,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="DRV_SEAT_EN" class="0">
 <segment>
-<pinref part="R13" gate="G$1" pin="2"/>
+<pinref part="R15" gate="G$1" pin="2"/>
 <wire x1="208.28" y1="180.34" x2="236.22" y2="180.34" width="0.1524" layer="91"/>
 <label x="236.22" y="180.34" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -3705,14 +3729,14 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="N$54" class="0">
 <segment>
-<pinref part="R43" gate="G$1" pin="1"/>
+<pinref part="R45" gate="G$1" pin="1"/>
 <pinref part="X5" gate="G$1" pin="4"/>
 <wire x1="137.16" y1="111.76" x2="109.22" y2="111.76" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$55" class="0">
 <segment>
-<pinref part="R43" gate="G$1" pin="2"/>
+<pinref part="R45" gate="G$1" pin="2"/>
 <wire x1="147.32" y1="111.76" x2="149.86" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="Q4" gate="G$1" pin="D"/>
 <wire x1="149.86" y1="111.76" x2="160.02" y2="111.76" width="0.1524" layer="91"/>
@@ -3729,7 +3753,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <pinref part="Q4" gate="G$1" pin="S"/>
 <wire x1="142.24" y1="127" x2="160.02" y2="127" width="0.1524" layer="91"/>
 <wire x1="160.02" y1="127" x2="160.02" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="R25" gate="G$1" pin="1"/>
+<pinref part="R27" gate="G$1" pin="1"/>
 <wire x1="162.56" y1="127" x2="160.02" y2="127" width="0.1524" layer="91"/>
 <junction x="160.02" y="127"/>
 </segment>
@@ -3737,13 +3761,13 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$58" class="0">
 <segment>
 <pinref part="OK12" gate="G$1" pin="A"/>
-<pinref part="R21" gate="G$1" pin="1"/>
+<pinref part="R23" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$59" class="0">
 <segment>
 <pinref part="OK12" gate="G$1" pin="COL"/>
-<pinref part="R25" gate="G$1" pin="2"/>
+<pinref part="R27" gate="G$1" pin="2"/>
 <wire x1="180.34" y1="127" x2="175.26" y2="127" width="0.1524" layer="91"/>
 <pinref part="Q4" gate="G$1" pin="G"/>
 <wire x1="175.26" y1="127" x2="172.72" y2="127" width="0.1524" layer="91"/>
@@ -3754,7 +3778,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="PAS_SEAT_EN" class="0">
 <segment>
-<pinref part="R21" gate="G$1" pin="2"/>
+<pinref part="R23" gate="G$1" pin="2"/>
 <wire x1="208.28" y1="127" x2="236.22" y2="127" width="0.1524" layer="91"/>
 <label x="236.22" y="127" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -3789,21 +3813,21 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <pinref part="X10" gate="G$1" pin="3"/>
 </segment>
 <segment>
-<pinref part="R29" gate="G$1" pin="2"/>
+<pinref part="R31" gate="G$1" pin="2"/>
 <wire x1="309.88" y1="172.72" x2="287.02" y2="172.72" width="0.1524" layer="91"/>
 <label x="287.02" y="172.72" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$56" class="0">
 <segment>
-<pinref part="R36" gate="G$1" pin="2"/>
+<pinref part="R38" gate="G$1" pin="2"/>
 <pinref part="OK15" gate="G$1" pin="A"/>
 <wire x1="304.8" y1="243.84" x2="307.34" y2="243.84" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$60" class="0">
 <segment>
-<pinref part="R32" gate="G$1" pin="1"/>
+<pinref part="R34" gate="G$1" pin="1"/>
 <pinref part="OK15" gate="G$1" pin="COL"/>
 <wire x1="327.66" y1="243.84" x2="325.12" y2="243.84" width="0.1524" layer="91"/>
 </segment>
@@ -3823,13 +3847,13 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$61" class="0">
 <segment>
 <pinref part="OK16" gate="G$1" pin="A"/>
-<pinref part="R33" gate="G$1" pin="2"/>
+<pinref part="R35" gate="G$1" pin="2"/>
 <wire x1="307.34" y1="218.44" x2="304.8" y2="218.44" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="BATTERY_CHARGE" class="0">
 <segment>
-<pinref part="R33" gate="G$1" pin="1"/>
+<pinref part="R35" gate="G$1" pin="1"/>
 <wire x1="294.64" y1="218.44" x2="271.78" y2="218.44" width="0.1524" layer="91"/>
 <label x="271.78" y="218.44" size="1.778" layer="95"/>
 </segment>
@@ -3844,7 +3868,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <pinref part="OK16" gate="G$1" pin="COL"/>
 <pinref part="Q2" gate="G$1" pin="G"/>
 <wire x1="325.12" y1="218.44" x2="327.66" y2="218.44" width="0.1524" layer="91"/>
-<pinref part="R37" gate="G$1" pin="1"/>
+<pinref part="R39" gate="G$1" pin="1"/>
 <wire x1="327.66" y1="218.44" x2="337.82" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="330.2" y1="223.52" x2="327.66" y2="223.52" width="0.1524" layer="91"/>
 <wire x1="327.66" y1="223.52" x2="327.66" y2="218.44" width="0.1524" layer="91"/>
@@ -3855,18 +3879,18 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <segment>
 <pinref part="IC3" gate="U$1" pin="VBUS"/>
 <wire x1="340.36" y1="142.24" x2="350.52" y2="142.24" width="0.1524" layer="91"/>
-<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R6" gate="G$1" pin="1"/>
 <label x="350.52" y="142.24" size="1.778" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="R27" gate="G$1" pin="2"/>
+<pinref part="R29" gate="G$1" pin="2"/>
 <wire x1="309.88" y1="177.8" x2="287.02" y2="177.8" width="0.1524" layer="91"/>
 <label x="287.02" y="177.8" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$64" class="0">
 <segment>
-<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="365.76" y1="152.4" x2="363.22" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="363.22" y1="152.4" x2="363.22" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="363.22" y1="142.24" x2="360.68" y2="142.24" width="0.1524" layer="91"/>
@@ -3884,7 +3908,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$35" class="0">
 <segment>
 <pinref part="X9" gate="G$1" pin="7"/>
-<pinref part="R38" gate="G$1" pin="1"/>
+<pinref part="R40" gate="G$1" pin="1"/>
 <wire x1="48.26" y1="40.64" x2="43.18" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="X1"/>
 <wire x1="43.18" y1="40.64" x2="30.48" y2="40.64" width="0.1524" layer="91"/>
@@ -3895,7 +3919,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="N$5" class="0">
 <segment>
-<pinref part="R41" gate="G$1" pin="2"/>
+<pinref part="R43" gate="G$1" pin="2"/>
 <wire x1="58.42" y1="33.02" x2="63.5" y2="33.02" width="0.1524" layer="91"/>
 <wire x1="63.5" y1="33.02" x2="63.5" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="Y0"/>
@@ -3904,14 +3928,14 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="R40" gate="G$1" pin="2"/>
+<pinref part="R42" gate="G$1" pin="2"/>
 <pinref part="IC2" gate="G$1" pin="Y2"/>
 <wire x1="58.42" y1="35.56" x2="71.12" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$15" class="0">
 <segment>
-<pinref part="R39" gate="G$1" pin="2"/>
+<pinref part="R41" gate="G$1" pin="2"/>
 <wire x1="58.42" y1="38.1" x2="66.04" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="66.04" y1="38.1" x2="66.04" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="Y3"/>
@@ -3920,7 +3944,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="N$16" class="0">
 <segment>
-<pinref part="R38" gate="G$1" pin="2"/>
+<pinref part="R40" gate="G$1" pin="2"/>
 <wire x1="58.42" y1="40.64" x2="60.96" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="40.64" x2="60.96" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="43.18" x2="68.58" y2="43.18" width="0.1524" layer="91"/>
@@ -3932,13 +3956,13 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$27" class="0">
 <segment>
 <pinref part="D1" gate="G$1" pin="A"/>
-<pinref part="R26" gate="G$1" pin="1"/>
+<pinref part="R28" gate="G$1" pin="1"/>
 <wire x1="322.58" y1="182.88" x2="320.04" y2="182.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$66" class="0">
 <segment>
-<pinref part="R27" gate="G$1" pin="1"/>
+<pinref part="R29" gate="G$1" pin="1"/>
 <pinref part="D2" gate="G$1" pin="A"/>
 <wire x1="320.04" y1="177.8" x2="322.58" y2="177.8" width="0.1524" layer="91"/>
 </segment>
@@ -3946,20 +3970,20 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$67" class="0">
 <segment>
 <pinref part="D4" gate="G$1" pin="A"/>
-<pinref part="R29" gate="G$1" pin="1"/>
+<pinref part="R31" gate="G$1" pin="1"/>
 <wire x1="322.58" y1="172.72" x2="320.04" y2="172.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$69" class="0">
 <segment>
-<pinref part="R28" gate="G$1" pin="1"/>
+<pinref part="R30" gate="G$1" pin="1"/>
 <pinref part="D3" gate="G$1" pin="A"/>
 <wire x1="320.04" y1="167.64" x2="322.58" y2="167.64" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DEBUG_LED" class="0">
 <segment>
-<pinref part="R28" gate="G$1" pin="2"/>
+<pinref part="R30" gate="G$1" pin="2"/>
 <wire x1="309.88" y1="167.64" x2="287.02" y2="167.64" width="0.1524" layer="91"/>
 <label x="287.02" y="167.64" size="1.778" layer="95"/>
 </segment>
@@ -3972,7 +3996,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$63" class="0">
 <segment>
 <pinref part="X9" gate="G$1" pin="5"/>
-<pinref part="R39" gate="G$1" pin="1"/>
+<pinref part="R41" gate="G$1" pin="1"/>
 <wire x1="48.26" y1="38.1" x2="38.1" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="X3"/>
 <wire x1="38.1" y1="38.1" x2="30.48" y2="38.1" width="0.1524" layer="91"/>
@@ -3984,7 +4008,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <net name="N$70" class="0">
 <segment>
 <pinref part="X9" gate="G$1" pin="3"/>
-<pinref part="R40" gate="G$1" pin="1"/>
+<pinref part="R42" gate="G$1" pin="1"/>
 <wire x1="48.26" y1="35.56" x2="40.64" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="X2"/>
 <wire x1="40.64" y1="35.56" x2="30.48" y2="35.56" width="0.1524" layer="91"/>
@@ -3995,7 +4019,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </net>
 <net name="N$71" class="0">
 <segment>
-<pinref part="R41" gate="G$1" pin="1"/>
+<pinref part="R43" gate="G$1" pin="1"/>
 <pinref part="X9" gate="G$1" pin="1"/>
 <wire x1="30.48" y1="33.02" x2="45.72" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="X0"/>
