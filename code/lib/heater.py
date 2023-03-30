@@ -15,6 +15,7 @@ class Heater:
     def __init__(self, relay, switch, levels, limit):
         self.relay           = DigitalInOut(relay)
         self.relay.direction = Direction.OUTPUT
+        self.relay.value     = False
 
         self.switch           = DigitalInOut(switch)
         self.switch.direction = Direction.INPUT
@@ -58,9 +59,7 @@ class Heater:
         if self.level == 0:
             return
 
-        print(self.level)
-        print(self.levels[self.level - 1][1])
-        print(self.limit.value())
+        print("Current: {} - Target: {}".format(self.limit.value(), self.levels[self.level - 1][1]))
 
         if self.safety["TIME"] + 300 <= time.monotonic() and self.safety["VAL"] * 1.1 < self.limit.value():
             print("SAFETY DISABLE")

@@ -19,7 +19,7 @@ charge_pin.direction = Direction.OUTPUT
 charge_pin.value     = False
 
 # Debug LED
-dbg_pin              = DigitalInOut(board.GP16)
+dbg_pin              = DigitalInOut(board.GP21)
 dbg_pin.direction    = Direction.OUTPUT
 dbg_pin.value        = True
 
@@ -37,14 +37,14 @@ heaters["WINDSHIELD"] = Heater(                                # Heated Windscre
 heaters["MIRROR"] = Heater(                                    # Heated Mirrors
     board.GP6,                                                 # Relay Pin
     board.GP8,                                                 # Switch Pin
-    ((board.GP7, 600),),                                       # Levels
+    ((board.GP7, 300),),                                       # Levels
     Timer()                                                    # Limit Class
 )
 heaters["WHEEL"] = Heater(                                     # Heated Steering Wheel
     board.GP10,                                                # Relay Pin
     board.GP22,                                                # Switch Pin
-    ((board.GP9, 30),),                                        # Levels
-    Thermistor(0, 0)                                           # Limit Class
+    ((board.GP9, 18),),                                        # Levels
+    Thermistor(1, 1)                                           # Limit Class
 )
 heaters["DRV_SEAT"] = Heater(                                  # Heated Drivers Seat
     board.GP11,                                                # Relay Pin
@@ -53,9 +53,9 @@ heaters["DRV_SEAT"] = Heater(                                  # Heated Drivers 
     Thermistor(1, 0)                                           # Limit Class
 )
 heaters["PAS_SEAT"] = Heater(                                  # Heated Passenger Seat
-    board.GP17,                                                # Relay Pin
-    board.GP21,                                                # Switch Pin
-    ((board.GP20, 28), (board.GP19, 30), (board.GP18, 32)),    # Levels
+    board.GP16,                                                # Relay Pin
+    board.GP20,                                                # Switch Pin
+    ((board.GP19, 28), (board.GP18, 30), (board.GP17, 32)),    # Levels
     Thermistor(0, 1)                                           # Limit Class
 )
 
@@ -71,5 +71,8 @@ while True:
         for key in heaters.keys():
             heaters[key].pidLoop()
 
+
     # Enable Battery Charge Output if Engine ON and Heated Windscreen OFF
     charge_pin.value = False if heaters["WINDSHIELD"].getHeater() or not engine_pin.value else True
+
+    time.sleep(0.001)
